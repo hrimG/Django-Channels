@@ -1,10 +1,4 @@
 # Rapid-ChatXChannels
-A rapid fire tutorial and introduction of Django Channels. To get more in-depth check out the full course https://kirr.co/badl8e
-
-
-YouTube Video: __coming soon__
-
-
 
 ### Recommended Start
 ```
