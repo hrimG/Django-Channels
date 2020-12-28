@@ -1,5 +1,22 @@
 # Rapid-ChatXChannels
 
+### Complete Project
+```
+
+$ cd path/to/your/dev/folder
+$ mkdir channels-rapid
+$ cd channels-rapid
+$ git clone https://github.com/hrimG/Django-Channels.git
+$ virtualenv -p python3 .
+$ source bin/activate
+(channels-rapid) $ cd src
+(channels-rapid) $ pip install -r requirements.txt
+(channels-rapid) $ python manage.py createsuperuser
+... do the creation
+(channels-rapid) $ python manage.py createsuperuser
+... create second super user 
+```
+
 ### Recommended Start
 ```
 
